@@ -5,3 +5,6 @@ The models used are:
 2. Polynomial Regression
 3. Support Vector Machine
 
+Main motive of the project is to predict the future number of cases that could be after one month or any number of days.
+
+
